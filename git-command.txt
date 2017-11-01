@@ -1,0 +1,10 @@
+$ git pull github master
+# remote repository name #  
+# branch #
+
+$ git add -A
+$ git commit -a -m "any message"
+$ git remote add origin(github) remote URL
+$ git remote -v
+# verify the repository # 
+$ git push github master( or other branches)
